@@ -24,14 +24,13 @@
 
 ### Задание 1
 
-https://github.com/RuslanArestov/netology/blob/main/README.md 
-
+https://github.com/RuslanArestov/netology/commit/ce78edbbff6b58fdd000a993072c2facfb95fac4 
 
 ---
 
 ### Задание 2
 
-https://github.com/RuslanArestov/netology/blob/main/.gitignore
+https://github.com/RuslanArestov/netology/commit/ebe79fa99715c0ea5ed5f54fc48ce564712d4137
 
 ---
 
