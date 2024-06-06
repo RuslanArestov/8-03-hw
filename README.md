@@ -23,14 +23,13 @@
 ---
 
 ### Задание 1
+                                                                                                                        https://github.com/RuslanArestov/8-03-hw/blob/main/images/config.toml.png
+https://github.com/RuslanArestov/8-03-hw/blob/main/images/runner.png                                                    ---
 
-https://github.com/RuslanArestov/netology/commit/ce78edbbff6b58fdd000a993072c2facfb95fac4 
-
----
 
 ### Задание 2
 
-https://github.com/RuslanArestov/netology/commit/ebe79fa99715c0ea5ed5f54fc48ce564712d4137
+https://github.com/RuslanArestov/8-03-hw/blob/main/images/pipeline.png
 
 ---
 
