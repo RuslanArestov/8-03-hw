@@ -23,8 +23,9 @@
 ---
 
 ### Задание 1
-                                                                                                                        https://github.com/RuslanArestov/8-03-hw/blob/main/images/config.toml.png
-![alt text](https://github.com/RuslanArestov/8-03-hw/blob/main/images/runner.png)                                                    ---
+                                                                                                                       
+![alt text](https://github.com/RuslanArestov/8-03-hw/blob/main/images/config.toml.png) \
+![alt text](https://github.com/RuslanArestov/8-03-hw/blob/main/images/runner.png)
 
 
 ### Задание 2
@@ -34,5 +35,3 @@
 ---
 
 ### Задание 3
-
-![alt text](https://github.com/RuslanArestov/netology/network)
