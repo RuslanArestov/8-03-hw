@@ -24,15 +24,15 @@
 
 ### Задание 1
                                                                                                                         https://github.com/RuslanArestov/8-03-hw/blob/main/images/config.toml.png
-https://github.com/RuslanArestov/8-03-hw/blob/main/images/runner.png                                                    ---
+![alt text](https://github.com/RuslanArestov/8-03-hw/blob/main/images/runner.png)                                                    ---
 
 
 ### Задание 2
 
-https://github.com/RuslanArestov/8-03-hw/blob/main/images/pipeline.png
+![alt text](https://github.com/RuslanArestov/8-03-hw/blob/main/images/pipeline.png)
 
 ---
 
 ### Задание 3
 
-https://github.com/RuslanArestov/netology/network
+![alt text](https://github.com/RuslanArestov/netology/network)
